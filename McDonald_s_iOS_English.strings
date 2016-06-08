@@ -1,0 +1,583 @@
+
+/** Loco ios export: iOS Localizable.strings
+ * Project: McDonalds iOS
+ * Release: Working copy
+ * Locale: en-GB, English (UK)
+ * Exported by: dev MLSDev
+ * Exported at: Tue, 17 May 2016 12:54:28 +0100
+ 
+ loco:5717a08114d725ef4a8b4567
+ * 7096988bf3cfba0d1eaf01edc4d42643
+ * Recieve more offers explanation text. Put actual text in here*/
+"<More Offers Description text>" = "Sign up and get exclusive delicious food and news offers every week!\nBy signing up you will help us keep connected with you and send you personalised offers based on what you like! ";
+
+/*loco:5739c61a14d72556338b4567
+ * 027725176818d943ef1a261d4d80e823
+ * Offer terms text: Place actual text in here*/
+"<Offer terms placeholder>" = "No terms added";
+
+/*loco:571f863c14d725c40c8b4567
+ * 8055172fc92290767a3052dd78053a19
+ * Sharing text*/
+"<Sharing text placeholder>" = "Get the best personalized offers! Download the new McDonald’s Baltics app!";
+
+/*loco:5717a08114d725ef4a8b4568
+ * ACTIVATE
+ * Button title in offer details: ACTIVATE*/
+"ACTIVATE" = "ACTIVATE";
+
+/*loco:5717a08114d725ef4a8b4569
+ * about-mcdonalds
+ * Title for About Us screen: About McDonald's*/
+"About McDonald's" = "About McDonald's";
+
+/*loco:5717a08114d725ef4a8b456a
+ * about-mcdonalds-ee6ff3e878a34d48bf37c07371a70056
+ * Menu title: About McDonalds*/
+"About McDonalds" = "About McDonald's";
+
+/*loco:5717a08114d725ef4a8b456b
+ * about-us
+ * About Us screen title: About Us*/
+"About Us" = "About Us";
+
+/*loco:5717a08114d725ef4a8b456c
+ * already-a-member
+ * Recieve more offers explanation text*/
+"Already a member" = "Already a member?";
+
+/*Question on redeeming offer: Are you sure you want to redeem the offer?*/
+"Are you sure you want to redeem the offer?" = "Are you sure you want to redeem the offer? Once activated the offer will expire after 10 min!";
+
+/*loco:5717a08114d725ef4a8b456d
+ * birth-date
+ * Common: Birth Date*/
+"Birth Date" = "Date of Birth";
+
+/*loco:5717a08114d725ef4a8b456e
+ * CHANGE
+ * Change password button title on Profile screen*/
+"CHANGE" = "CHANGE";
+
+/*loco:5717a08114d725ef4a8b456f
+ * change-password
+ * Section header on Profile view screen: CHANGE PASSWORD*/
+"CHANGE PASSWORD" = "CHANGE YOUR PASSWORD";
+
+/*loco:571f863c14d725c40c8b4568
+ * Cafe
+ * Restaurant name: Cafe*/
+"Cafe" = "Cafe";
+
+/*Common: Cancel*/
+"Cancel" = "Cancel";
+
+/*loco:571f863c14d725c40c8b4569
+ * change-password-8f1e77e0d2be21da93cd4d9a939148f7
+ * Section on Profile Screen: Change Password*/
+"Change Password" = "CHANGE YOUR PASSWORD";
+
+/*loco:5717a08114d725ef4a8b4570
+ * choose-country
+ * View controller title: Choose country*/
+"Choose country" = "Choose your country";
+
+/*loco:571f863c14d725c40c8b456a
+ * Closed
+ * Common: Closed*/
+"Closed" = "Closed";
+
+/*loco:5717a08114d725ef4a8b4571
+ * contact-us
+ * Menu title: Contact Us*/
+"Contact Us" = "Contact Us";
+
+/*loco:571f863c14d725c40c8b456b
+ * Country
+ * Common: Country*/
+"Country" = "Country";
+
+/*loco:5717a08114d725ef4a8b4572
+ * Discover
+ * Menu title: Discover*/
+"Discover" = "Discover";
+
+/*loco:5718c2ab14d72581778b4567
+ * Drive
+ * Restaurant name: Drive*/
+"Drive" = "Drive";
+
+/*loco:5717a08114d725ef4a8b4573
+ * E-mail
+ * Common: E-mail*/
+"E mail" = "E-mail";
+
+/*loco:5717a08114d725ef4a8b4574
+ * e-mail-is-invalid
+ * Validation error message for incorrect email format (xyz@xyz.xyz)*/
+"E mail is invalid" = "E-mail is invalid";
+
+/*Common: E-mail*/
+"E-mail" = "E-mail";
+
+/*Validation error message for incorrect email format (xyz@xyz.xyz)*/
+"E-mail is invalid" = "E-mail is invalid";
+
+/*loco:5717a08114d725ef4a8b4575
+ * email-of-password-is-invalid
+ * Progres hud title: Email of password is invalid*/
+"Email of password is invalid" = "E-mail or password is invalid";
+
+/*loco:5717a08114d725ef4a8b4576
+ * enter-your-email
+ * Header for asking enter email on reset password screen*/
+"Enter your email" = "Enter your e-mail";
+
+/*loco:5739c61a14d72556338b4568
+ * Error
+ * Common: Error*/
+"Error" = "Error";
+
+/*loco:5717a08114d725ef4a8b4577
+ * Estonia
+ * Country name: Estonia*/
+"Estonia" = "Estonia";
+
+/*loco:5717a08114d725ef4a8b4578
+ * explore-our-products
+ * Home section: Explore our products*/
+"Explore our products" = "Explore our menu";
+
+/*loco:5717a08114d725ef4a8b4579
+ * Favourites
+ * Menu title: Favourites*/
+"Favourites" = "Your favourites";
+
+/*loco:5717a08114d725ef4a8b457a
+ * Female
+ * Consumer gender: Female*/
+"Female" = "Female";
+
+/*loco:5717a08114d725ef4a8b457b
+ * fill-your-information
+ * Header for asking about reciving special offers*/
+"Fill your information" = "Fill in your details";
+
+/*loco:5717a08114d725ef4a8b457c
+ * find-a-restaurant
+ * Home section: Find a Restaurant*/
+"Find a Restaurant" = "Find a restaurant";
+
+/*loco:5717a08114d725ef4a8b457d
+ * find-a-restaurant-84db8d71b479d58f2f55256a3a2bc8c2
+ * Title for Restaurants screen: Find a restaurant*/
+"Find a restaurant" = "Find a restaurant";
+
+/*loco:5717a08114d725ef4a8b457e
+ * first-name
+ * Common: First Name*/
+"First Name" = "First Name";
+
+/*loco:5717a08114d725ef4a8b457f
+ * forgot-password
+ * Recieve more offers explanation text*/
+"Forgot Password?" = "Forgot your password?";
+
+/*loco:5718c2ab14d72581778b4568
+ * Friday
+ * Common weekday: Friday*/
+"Friday" = "Friday";
+
+/*loco:5717a08114d725ef4a8b4580
+ * general-information
+ * Section header on Profile view screen: GENERAL INFORMATION*/
+"GENERAL INFORMATION" = "GENERAL INFORMATION";
+
+/*loco:5717a08114d725ef4a8b4581
+ * Gender
+ * Common: Gender*/
+"Gender" = "Gender";
+
+/*loco:5717a08114d725ef4a8b4582
+ * ill-do-it-later
+ * Recieve more offers explanation text*/
+"I'LL DO IT LATER" = "WILL DO THIS LATER";
+
+/*loco:5717a08114d725ef4a8b4583
+ * instructions-was-sent-on-your-email
+ * Progres hud message: Instructions was sent on your email*/
+"Instructions was sent on your email" = "Instructions were sent to your e-mail";
+
+/*loco:5717a08114d725ef4a8b4584
+ * KM
+ * Kilometers abbreviation: KM*/
+"KM" = "KM";
+
+/*loco:5717a08114d725ef4a8b4585
+ * LOGOUT
+ * Logout button title on Profile screen*/
+"LOGOUT" = "LOGOUT";
+
+/*loco:5717a08114d725ef4a8b4586
+ * last-name
+ * Common: Last Name*/
+"Last Name" = "Last Name";
+
+/*loco:5717a08114d725ef4a8b4587
+ * Latvia
+ * Country name: Latvia*/
+"Latvia" = "Latvia";
+
+/*loco:5717a08114d725ef4a8b4588
+ * Lithuania
+ * Country name: Lithuania*/
+"Lithuania" = "Lithuania";
+
+/*loco:5718c2ab14d72581778b4569
+ * Lobby
+ * Restaurant name: Lobby*/
+"Lobby" = "Lobby";
+
+/*loco:5739c61a14d72556338b4569
+ * login-or-password-is-incorrect
+ * Error message on login with wrong credentials*/
+"Login or password is incorrect" = "E-mail or password is invalid";
+
+/*loco:5717a08114d725ef4a8b4589
+ * Male
+ * Consumer gender: Male*/
+"Male" = "Male";
+
+/*loco:5718c2ab14d72581778b456a
+ * McCafe
+ * Restaurant name: McCafe*/
+"McCafe" = "McCafe";
+
+/*loco:5718c2ab14d72581778b456b
+ * Monday
+ * Common weekday: Monday*/
+"Monday" = "Monday";
+
+/*loco:5717a08114d725ef4a8b458a
+ * More
+ * Common: More*/
+"More" = "More";
+
+/*loco:571f863c14d725c40c8b456c
+ * my-profile
+ * Section on Profile Screen: My Profile*/
+"My Profile" = "My Profile";
+
+/*loco:571f863c14d725c40c8b456d
+ * network-failure-try-again
+ * Network failure message: Network failure, try again?*/
+"Network failure, try again?" = "Network failure, please try again";
+
+/*loco:5717a08114d725ef4a8b458b
+ * News
+ * Menu title: News*/
+"News" = "News";
+
+/*loco:5717a08114d725ef4a8b458c
+ * not-specify
+ * Consumer not specified his gender*/
+"Not specify" = "Not specified";
+
+/*loco:5717a08114d725ef4a8b458d
+ * nutrition-calculator
+ * Menu title: Nutrition Calculator*/
+"Nutrition Calculator" = "Nutrition Calculator";
+
+/*loco:5717a08114d725ef4a8b458e
+ * offer-ends-in
+ * Subtitle for timer on redeemed offer: OFFER ENDS IN:*/
+"OFFER ENDS IN:" = "OFFER ENDS IN:";
+
+/*loco:5717a08114d725ef4a8b458f
+ * offer-used
+ * Static text for used offer: OFFER USED*/
+"OFFER USED" = "ALREADY USED";
+
+/*loco:5739c61b14d72556338b456a
+ * offer-details
+ * Title for Offer Details: Offer Details*/
+"Offer Details" = "Offer Details";
+
+/*loco:5717a08114d725ef4a8b4590
+ * offer-ends
+ * Offer details screen static text: Offer ends:*/
+"Offer ends:" = "OFFER ENDS IN:";
+
+/*loco:5717a08114d725ef4a8b4591
+ * Offers
+ * Menu title: Offers*/
+"Offers" = "Offers";
+
+/*loco:5717a08114d725ef4a8b4592
+ * old-password
+ * Common: Old Password*/
+"Old Password" = "Old Password";
+
+/*Validation error message for using special characters in password*/
+"Only digits, letters and _ sight are allowed" = "Only digits and letters are allowed";
+
+/*loco:5739c61b14d72556338b456b
+ * only-digits-letters-and-sight-are-allowed
+ * Validation error message for using special characters in password*/
+"Only digits, letters and sight are allowed" = "Only digits and letters are allowed";
+
+/*loco:5717a08114d725ef4a8b4593
+ * Password
+ * Common: Password*/
+"Password" = "Password";
+
+/*loco:5739c61b14d72556338b456c
+ * password-must-be-min-max-symbols-length
+ * Validation error message for password length from 6 to 128 by default value*/
+"Password must be (min)-(max) symbols length" = "The password must be between (min) to (max) characters in length";
+
+/*loco:5717a08114d725ef4a8b4595
+ * password-must-match
+ * Validation error message when passwords not match*/
+"Password must match" = "Password entries have to match";
+
+/*loco:5717a08114d725ef4a8b4596
+ * password-successfuly-changed
+ * Progres hud message: Password successfuly changed*/
+"Password successfuly changed" = "Password is successfuly changed";
+
+/*loco:5717a08114d725ef4a8b4597
+ * Processing
+ * Progres hud title: Processing*/
+"Processing" = "Processing";
+
+/*loco:5717a08114d725ef4a8b4598
+ * Products
+ * Menu title: Products*/
+"Products" = "Products";
+
+/*loco:5717a08114d725ef4a8b4599
+ * recieve-more-offers
+ * View controller title: Use offers benefits*/
+"Recieve more offers" = "Recieve more offers";
+
+/*loco:5739c61b14d72556338b456d
+ * recived-error-code
+ * Generic error message for unhandled server errors*/
+"Recived error code:" = "Received error code:";
+
+/*Offer redeem confirmation button text: Redeem*/
+"Redeem" = "Redeem";
+
+/*loco:5717a08114d725ef4a8b459a
+ * Redeeming
+ * Progres hud title for offer: Redeeming*/
+"Redeeming" = "Redeeming";
+
+/*loco:571f863c14d725c40c8b456e
+ * Reload
+ * Common button text: Reload*/
+"Reload" = "Reload";
+
+/*loco:5717a08114d725ef4a8b459b
+ * repeat-password
+ * Common: Repeat Password*/
+"Repeat Password" = "Please repeat your password";
+
+/*loco:5717a08114d725ef4a8b459c
+ * Restaurant
+ * Title for Restaurant Details screen: Restaurant*/
+"Restaurant" = "Restaurant";
+
+/*loco:5717a08114d725ef4a8b459d
+ * Restaurants
+ * Common: Restaurants*/
+"Restaurants" = "Restaurants";
+
+/*loco:5717a08114d725ef4a8b459e
+ * restoring-password
+ * View controller title: Restoring password*/
+"Restoring password" = "Restoring password";
+
+/*loco:571f863c14d725c40c8b456f
+ * Retry
+ * Common button text: Retry*/
+"Retry" = "Retry";
+
+/*loco:5717a08114d725ef4a8b459f
+ * SEND
+ * Recieve more offers explanation text*/
+"SEND" = "SEND";
+
+/*loco:5717a08114d725ef4a8b45a0
+ * SETTINGS
+ * Section header on Profile view screen: SETTINGS*/
+"SETTINGS" = "SETTINGS";
+
+/*loco:5717a08114d725ef4a8b45a1
+ * show-cashier-this-code
+ * Title for redeemed offer: SHOW CASHIER THIS CODE*/
+"SHOW CASHIER THIS CODE" = "SHOW THIS CODE TO THE CASHIER";
+
+/*loco:5717a08114d725ef4a8b45a2
+ * sign-in
+ * Login button title on Profile screen*/
+"SIGN IN" = "SIGN IN";
+
+/*loco:5717a08114d725ef4a8b45a3
+ * sign-up
+ * Recieve more offers explanation text*/
+"SIGN UP" = "SIGN UP";
+
+/*loco:5717a08114d725ef4a8b45a4
+ * SUBMIT
+ * Recieve more offers explanation text*/
+"SUBMIT" = "SUBMIT";
+
+/*loco:5718c2ab14d72581778b456d
+ * Saturday
+ * Common weekday: Saturday*/
+"Saturday" = "Saturday";
+
+/*loco:5717a08114d725ef4a8b45a5
+ * see-redeemed-code
+ * Button title: See redeemed code*/
+"See redeemed code" = "See redeemed code";
+
+/*loco:5717a08114d725ef4a8b45a6
+ * select-your-country
+ * Label at the top on Contry Selection Screen*/
+"Select your country:" = "Select your country:";
+
+/*loco:5717a08114d725ef4a8b45a7
+ * Settings
+ * Title for Profile screen: Settings*/
+"Settings" = "Settings";
+
+/*loco:5717a08114d725ef4a8b45a8
+ * sign-in-f2fdea440d768b85591e936a803c3631
+ * View controller title: Sign In*/
+"Sign In" = "Sign In";
+
+/*loco:5717a08114d725ef4a8b45a9
+ * sign-up-d67850bd126f070221dcfd5fa6317043
+ * View controller title: Sign Up*/
+"Sign Up" = "Sign Up";
+
+/*loco:5717a08114d725ef4a8b45aa
+ * signing-in
+ * Progres hud title: Signing in*/
+"Signing in" = "Signing in";
+
+/*loco:5717a08114d725ef4a8b45ab
+ * signing-up
+ * Progres hud title: Signing up*/
+"Signing up" = "Signing up";
+
+/*loco:5739c61b14d72556338b456e
+ * something-went-wrong-please-try-again-later
+ * Error message on unknown server error*/
+"Something went wrong. Please try again later" = "Something went wrong. Please try again later";
+
+/*loco:5717a08114d725ef4a8b45ac
+ * sorry-no-offers-available-right-now
+ * Placeholder text when no available offers: Sorry, no offers available right now*/
+"Sorry, no offers available right now" = "Sorry, no offers are available at the moment";
+
+/*loco:5717a08114d725ef4a8b45ad
+ * sorry-no-restaurants-available
+ * Text when no restaurants found: Sorry, no restaurants available*/
+"Sorry, no restaurants available" = "Sorry, no restaurants are available";
+
+/*loco:571f863c14d725c40c8b4570
+ * Store
+ * Restaurant name: Store*/
+"Store" = "Store";
+
+/*loco:5717a08114d725ef4a8b45ae
+ * Success
+ * Progres hud title: Succes*/
+"Success" = "Success";
+
+/*loco:5718c2ab14d72581778b456e
+ * Sunday
+ * Common weekday: Sunday*/
+"Sunday" = "Sunday";
+
+/*loco:5717a08114d725ef4a8b45af
+ * terms-and-conditions
+ * Terms and Conditions button on Profile view screen*/
+"Terms and Conditions" = "Terms and Conditions";
+
+/*loco:571f863c14d725c40c8b4571
+ * there-is-no-news
+ * Message when no advertisement was loaded: There is no news*/
+"There is no news" = "There are no news";
+
+/*loco:5739c61b14d72556338b456f
+ * this-e-mail-already-in-use
+ * Error message on sign up if email already in use*/
+"This e-mail already in use" = "This e-mail is already in use";
+
+/*loco:5717a08114d725ef4a8b45b0
+ * this-field-is-required
+ * Validation error message when field is empty*/
+"This field is required" = "This field is required";
+
+/*loco:5718c2ab14d72581778b456f
+ * Thursday
+ * Common weekday: Thursday*/
+"Thursday" = "Thursday";
+
+/*loco:5718c2ab14d72581778b4570
+ * Tuesday
+ * Common weekday: Tuesday*/
+"Tuesday" = "Tuesday";
+
+/*loco:5717a08114d725ef4a8b45b1
+ * UPDATE
+ * Update profile button title on Profile screen*/
+"UPDATE" = "UPDATE";
+
+/*loco:5717a08114d725ef4a8b45b2
+ * use-offers-benefits
+ * Home section: Use offers benefits*/
+"Use offers benefits" = "Use offer benefits";
+
+/*loco:5717a08114d725ef4a8b45b3
+ * want-to-recieve-more-special-offers
+ * Header for asking about reciving special offers*/
+"Want to recieve more special offers?" = "Would you like to receive personalised offers?";
+
+/*loco:5718c2ab14d72581778b4571
+ * Wednesday
+ * Common weekday: Wednesday*/
+"Wednesday" = "Wednesday";
+
+/*loco:5717a08114d725ef4a8b45b4
+ * Welcome
+ * View controller title: Use offers benefits*/
+"Welcome" = "Welcome";
+
+/*loco:5739c61b14d72556338b4570
+ * youve-entered-incorrect-password
+ * Error message on change password if old password was wrong*/
+"You've entered incorrect password" = "E-mail or password is invalid";
+
+/*loco:5739c61b14d72556338b4571
+ * youve-probably-redeem-this-offer-from-your-device
+ * Error message on second offer redeem from same device*/
+"You've probably redeem this offer from your device" = "This offer is probably already redeemed from this device";
+
+/*loco:5717a08114d725ef4a8b45b5
+ * closed
+ * Current status for restaurant: closed*/
+"closed" = "closed";
+
+/*loco:5717a08114d725ef4a8b45b6
+ * now-open
+ * Current status for restaurant: now open*/
+"now open" = "now open";
+
+"test1" = "now open";
+"test2" = "now open";
