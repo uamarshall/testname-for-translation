@@ -9,7 +9,7 @@
  loco:5717a08114d725ef4a8b4567
  * 7096988bf3cfba0d1eaf01edc4d42643
  * Recieve more offers explanation text. Put actual text in here*/
-"<More Offers Description text>" = "Sign up and get exclusive delicious food and news offers every week!\nBy signing up you will help us keep connected with you and send you personalised offers based on what you like! ";
+"<More Offers Description text>" = "TEST BIG TEST";
 
 /*loco:5739c61a14d72556338b4567
  * 027725176818d943ef1a261d4d80e823
@@ -578,6 +578,5 @@
  * now-open
  * Current status for restaurant: now open*/
 "now open" = "now open";
-
 "test1" = "now open";
 "test2" = "now open";
